@@ -189,7 +189,7 @@ export const initialState = {
     sectionList: [
         {
             'title': `DermFlow.AI`,
-            'text': `Empowering Dermatology with AI: Physician's assistant, now at your fingertips!`,
+            'text': `Empowering Dermatology with AI: Physician's assistant, now at your fingertips. In 3 simple steps, receive the treatment you need!`,
             'additionalTextComponents': <UserInfoPanel />,
             'image': happyPhone,
             'mobileImage': <IPhoneScreenShot image={happyPhone}/>,
