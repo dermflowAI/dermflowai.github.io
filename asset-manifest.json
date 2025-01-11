@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.a1bb1282.js",
+    "main.js": "/static/js/main.d1240776.js",
     "static/js/488.49b81e8f.chunk.js": "/static/js/488.49b81e8f.chunk.js",
     "static/media/purple_phones.png": "/static/media/purple_phones.89363e795946e1aecd48.png",
     "static/media/dermflow-upload.png": "/static/media/dermflow-upload.745fe8187ef9325a5ab6.png",
@@ -22,11 +22,11 @@
     "static/media/LogoDermFlowAI.svg": "/static/media/LogoDermFlowAI.8654e59d128269c233874b06407ad913.svg",
     "index.html": "/index.html",
     "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.a1bb1282.js.map": "/static/js/main.a1bb1282.js.map",
+    "main.d1240776.js.map": "/static/js/main.d1240776.js.map",
     "488.49b81e8f.chunk.js.map": "/static/js/488.49b81e8f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.a1bb1282.js"
+    "static/js/main.d1240776.js"
   ]
 }
