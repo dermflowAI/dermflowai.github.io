@@ -140,9 +140,9 @@ export const initialState = {
     appURL: 'https://amplichat.com',
 
     appLogo: appLogo,
-    appName: 'Dermflow.AI',
+    appName: 'Dermflow',
 
-    coverTitle: 'Dermflow.AI',
+    coverTitle: 'Dermflow',
     coverText: 'Empowering Dermatology, with AI!',
     appleStoreBadge: appleStoreBadge,
     appleStoreLink,
@@ -188,7 +188,7 @@ export const initialState = {
 
     sectionList: [
         {
-            'title': `DermFlow.AI`,
+            'title': `Dermflow`,
             'text': `Empowering Dermatology with AI: Physician's assistant, now at your fingertips. In 3 simple steps, receive the treatment you need!`,
             'additionalTextComponents': <UserInfoPanel />,
             'image': happyPhone,
@@ -205,13 +205,13 @@ export const initialState = {
         },
         {
             'title': `2. Chat!`,
-            'text': `Dermflow.AI, your virtual physician-assistant, will process the uploaded image, and ask you relevant questions. Have a conversation with the expert AI, answering some questions about necessary details.`,
+            'text': `Dermflow, your virtual physician-assistant, will process the uploaded image, and ask you relevant questions. Have a conversation with the expert AI, answering some questions about necessary details.`,
             'image': generousPhone,
             'mobileImage': <IPhoneScreenShot image={generousPhone}/>,
         },
         {
             'title': `3. Receive a treatment plan!`,
-            'text': `Once Dermflow.AI receives the necessary details, the triage report is generated and passed on to the physician. Your treatment plan is on it's way!`,
+            'text': `Once Dermflow receives the necessary details, the triage report is generated and passed on to the physician. Your treatment plan is on it's way!`,
             'image': endConvoPhone,
             'mobileImage': <IPhoneScreenShot image={endConvoPhone}/>,
         }
