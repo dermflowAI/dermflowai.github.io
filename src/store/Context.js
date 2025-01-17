@@ -1,6 +1,6 @@
 import React from 'react'
 
-import appLogo from '../images/LogoDermFlowAI.svg'
+import appLogo from '../images/LogoDermflow.svg'
 import {Typography, Image} from 'antd';
 
 import appleStoreBadge from '../images/apple_store_badge.svg'
